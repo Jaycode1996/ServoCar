@@ -3,8 +3,7 @@
     "version": "0.0.6",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:mworkfun/pxt-neopixel-bluetooth"
+        "core": "*"
     },
     "files": [
         "README.md",
